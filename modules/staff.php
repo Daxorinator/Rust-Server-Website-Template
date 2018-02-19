@@ -4,25 +4,33 @@
 
 <!-- one member -->
 <div class="col-md-4">
-<img src="img/photo.jpg" class="rounded-circle staff" alt="Kirill Krasin"/>
-<p class="staff-name">Kirill Krasin</p>
+<img src="img/smile.jpg" class="rounded-circle staff" alt="Kirill Krasin"/>
+<p class="staff-name">SmileWhileYouDie</p>
 <p class="staff-role">Owner</p>
 </div>
 <!-- one member -->
 
 <!-- one member -->
 <div class="col-md-4">
-<img src="//placehold.it/300" class="rounded-circle staff" alt="John Smith"/>
-<p class="staff-name">John Smith</p>
-<p class="staff-role">Admin</p>
+<img src="img/crash.jpg" class="rounded-circle staff" alt="John Smith"/>
+<p class="staff-name">CrashOverride</p>
+<p class="staff-role">Technician</p>
 </div>
 <!-- one member -->
 
 <!-- one member -->
 <div class="col-md-4">
-<img src="//placehold.it/300" class="rounded-circle staff" alt="Robert Jones"/>
-<p class="staff-name">Robert Jones</p>
-<p class="staff-role">Moderator</p>
+<img src="img/frictionless.jpg" class="rounded-circle staff" alt="Robert Jones"/>
+<p class="staff-name">FrictionlessPortals</p>
+<p class="staff-role">Technician</p>
+</div>
+<!-- one member -->
+
+<!-- one member -->
+<div class="col-md-4">
+<img src="img/ryce.jpg" class="rounded-circle staff" alt="Robert Jones"/>
+<p class="staff-name">Ryce</p>
+<p class="staff-role">Administrator</p>
 </div>
 <!-- one member -->
 
